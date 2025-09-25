@@ -23,8 +23,7 @@ export default function SprintPage({ params }: { params: { id: string } }) {
       <div className="mt-10 p-6 bg-slate-50 rounded-lg border">
         <h2 className="text-2xl font-semibold mb-3">Meeting Notes</h2>
         <p className="text-gray-600">
-          (You can expand this section later to include detailed sprint notes,
-          decisions, or action items.)
+          (Meeting notes will be added here later)
         </p>
       </div>
     </section>

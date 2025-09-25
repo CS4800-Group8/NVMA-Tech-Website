@@ -9,7 +9,7 @@ const projects = [
       "A web application that allows users to browse, search, and share food recipes. Features include recipe categorization, ingredient-based search, and user-contributed content.",
     status: "In Progress",
     team: ["Gia Minh Hua", "Thu Nguyen", "An Nguyen", "Nicholas Perez", "Viet Tran"],
-    image: "/images/food-recipe-demo.png", // make sure you place an image in public/images/
+    image: "/images/project_photo.jpeg", // make sure to place an image in public/images/
   },
 ];
 

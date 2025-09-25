@@ -59,15 +59,22 @@ export const teamMembers = [
 
 export const logs = [
   {
-    id: "sprint12",
-    title: "Sprint 12 Review",
-    desc: "Completed user authentication module and began recipe search implementation",
-    date: "March 15, 2025 • 2:00 PM - 3:30 PM",
+    id: "sprint01",
+    title: "Sprint 01 Review",
+    desc: "Create the skeleton of the web application and set up the initial project structure",
+    date: "August 29, 2025 • 12:00 PM - 12:50 PM",
   },
   {
-    id: "sprint11",
-    title: "Sprint 11 Retrospective",
-    desc: "Discussed improvements to our CI/CD pipeline and code review process",
-    date: "March 1, 2025 • 1:30 PM - 3:00 PM",
+    id: "sprint02",
+    title: "Sprint 02 Review",
+    desc: "Create the project proposal, design the mockup of the web application",
+    date: "September 5, 2025 • 12:00 PM - 12:50 PM",
   },
+  {
+    id: "sprint03",
+    title: "Sprint 03 Review",
+    desc: "Implement the frontend",
+    date: "September 12, 2025 • 12:00 PM - 12:50 PM",
+  },
+  
 ];
