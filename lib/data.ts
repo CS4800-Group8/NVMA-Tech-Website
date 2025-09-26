@@ -15,7 +15,7 @@ export const teamMembers = [
     id: "thu",
     name: "Thu Nguyen",
     initials: "TN",
-    role: "Data Scientist",
+    role: "Backend Developer",
     about:
       "She is a Computer Science major with a minor in Data Science, passionate about exploring the data-driven technologies. She is most familiar with Python and its libraries, which she uses for programming and building solutions to problems. She is also eager to dive deeper into the fields of Machine Learning and Data Science, with the goal of applying these skills to solve real-world challenges and uncover meaningful insights from data.",
     skills: ["Python", "Java", "C++", "SQL"],
@@ -37,7 +37,7 @@ export const teamMembers = [
     id: "nicholas",
     name: "Nicholas Perez",
     initials: "NP",
-    role: "Backend Engineer",
+    role: "Front Developer",
     about:
       "Ncholas is a Computer Science Major with a Minor in Data Science. He enjoys creating projects that merge Data Science and Web Development, focusing on building dynamic and visually compelling user experiences. Specializing in Python, Next.js, and TypeScript, he leverages Tailwind CSS to craft responsive and polished designs. He is passionate about developing web applications that not only look great but also present complex data in an intuitive and interactive way, empowering users to explore and understand insights effectively.",
     skills: ["Python", "NextJS", "Typescript", "Tailwind CSS"],
@@ -48,7 +48,7 @@ export const teamMembers = [
     id: "viet",
     name: "Viet Tran",
     initials: "VT",
-    role: "UI/UX Designer",
+    role: "Backend Developer",
     about:
       "Viet is a Computer Science major with experience in Python, HTML, and CSS. He likes to explore and learn about Machine Learning and AI. He also enjoys building interactive web applications, creating solutions that improve everyday life, and solving real-world problems. For this project, he will contribute his skills to design and develop a user-friendly platform for sharing and discovering food recipes",
     skills: ["HTML", "CSS", "Python"],
