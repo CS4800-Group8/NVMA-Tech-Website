@@ -7,7 +7,7 @@ const projects = [
     name: "Food Recipe Web App",
     description:
       "A web application that allows users to browse, search, and share food recipes. Features include recipe categorization, ingredient-based search, and user-contributed content.",
-    status: "In Progress",
+    status: "Cooking..",
     team: ["Gia Minh Hua", "Thu Nguyen", "An Nguyen", "Nicholas Perez", "Viet Tran"],
     image: "/images/project_photo.jpeg",
   },
