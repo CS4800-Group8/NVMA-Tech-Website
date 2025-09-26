@@ -6,8 +6,8 @@ export const teamMembers = [
     initials: "GH",
     role: "CEO / Lead Software Developer",
     about:
-      "Gia is a full-stack developer with over 8 years of experience in building scalable web applications. He specializes in React, Node.js, and cloud infrastructure. Gia leads our technical team and ensures that all projects meet the highest quality standards.",
-    skills: ["C++", "Java", "Python", "React"],
+      "Gia is a Computer Science major at Cal Poly Pomona. He has a strong passion in building application and has been doing since high school. He specializes in C++, Java, Python, and React. Gia leads our technical team and ensures that all projects meet the highest quality standards.",
+    skills: ["C++", "Java", "Python", ],
     bgColor: "bg-blue-100",
     textColor: "text-blue-800",
   },
@@ -39,7 +39,7 @@ export const teamMembers = [
     initials: "NP",
     role: "Frontend Developer",
     about:
-      "Ncholas is a Computer Science Major with a Minor in Data Science. He enjoys creating projects that merge Data Science and Web Development, focusing on building dynamic and visually compelling user experiences. Specializing in Python, Next.js, and TypeScript, he leverages Tailwind CSS to craft responsive and polished designs. He is passionate about developing web applications that not only look great but also present complex data in an intuitive and interactive way, empowering users to explore and understand insights effectively.",
+      "Nicholas is a Computer Science Major with a Minor in Data Science. He enjoys creating projects that merge Data Science and Web Development, focusing on building dynamic and visually compelling user experiences. Specializing in Python, Next.js, and TypeScript, he leverages Tailwind CSS to craft responsive and polished designs. He is passionate about developing web applications that not only look great but also present complex data in an intuitive and interactive way, empowering users to explore and understand insights effectively.",
     skills: ["Python", "NextJS", "Typescript", "Tailwind CSS"],
     bgColor: "bg-yellow-100",
     textColor: "text-yellow-800",
@@ -50,7 +50,7 @@ export const teamMembers = [
     initials: "VT",
     role: "Backend Developer",
     about:
-      "Viet is a Computer Science major with experience in Python, HTML, and CSS. He likes to explore and learn about Machine Learning and AI. He also enjoys building interactive web applications, creating solutions that improve everyday life, and solving real-world problems. For this project, he will contribute his skills to design and develop a user-friendly platform for sharing and discovering food recipes",
+      "Viet is a Computer Science major with experience in Python, HTML, and CSS. He likes to explore and learn about Machine Learning and AI. He also enjoys building interactive web applications, creating solutions that improve everyday life, and solving real-world problems.",
     skills: ["HTML", "CSS", "Python"],
     bgColor: "bg-pink-100",
     textColor: "text-pink-800",
