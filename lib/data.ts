@@ -37,7 +37,7 @@ export const teamMembers = [
     id: "nicholas",
     name: "Nicholas Perez",
     initials: "NP",
-    role: "Front Developer",
+    role: "Frontend Developer",
     about:
       "Ncholas is a Computer Science Major with a Minor in Data Science. He enjoys creating projects that merge Data Science and Web Development, focusing on building dynamic and visually compelling user experiences. Specializing in Python, Next.js, and TypeScript, he leverages Tailwind CSS to craft responsive and polished designs. He is passionate about developing web applications that not only look great but also present complex data in an intuitive and interactive way, empowering users to explore and understand insights effectively.",
     skills: ["Python", "NextJS", "Typescript", "Tailwind CSS"],
