@@ -153,13 +153,18 @@ export const logs = [
     id: "meeting15",
     title: "Client Section & Requirements",
     desc: "Discussed ideas on the client section and details on the functional requirements section.",
-    date: "September 22, 2025 • 11:00 AM - 11:50 AM",
+    date: "September 22, 2025 • 12:00 AM - 12:50 AM",
   },
   {
     id: "meeting16",
     title: "Verb and Noun Review",
     desc: "Underlined verb and noun in the project goal parts in the project proposal and the SRS document.",
-    date: "September 24, 2025 • 11:00 AM - 11:50 AM",
+    date: "September 24, 2025 • 12:00 AM - 12:50 AM",
   },
-  
+  {
+    id: "meeting17",
+    title: "SRS Final Review",
+    desc: "Split some sections into functional requirements. Reviewed the entire SRS document for submission.",
+    date: "September 26, 2025 • 12:00 AM - 12:50 AM",
+  },
 ];
