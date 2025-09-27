@@ -24,24 +24,25 @@ export default function ProjectsPage() {
           {projects.map((project) => (
             <Card key={project.id} className="flex flex-col md:flex-row shadow-lg">
               {/* Left side: Image */}
-              <div className="relative w-full md:w-1/2 h-64 md:h-auto flex items-center justify-center pl-4">
-                <div className="relative w-full h-full">
+              <div className="w-full md:w-1/2 flex items-center justify-center p-4 md:pr-0">
+                <div className="relative w-full h-48 md:h-64">
                   <Image
                     src={project.image}
                     alt={project.name}
                     fill
-                    className="object-cover"
+                    className="object-contain"
+                    sizes="(max-width: 768px) 100vw, 50vw"
                   />
                 </div>
               </div>
 
               {/* Right side: Info */}
-              <div className="flex-1">
-                <CardHeader>
-                  <CardTitle>{project.name}</CardTitle>
+              <div className="flex-1 flex flex-col justify-center p-4 md:pl-0">
+                <CardHeader className="p-0 pb-2">
+                  <CardTitle className="text-xl md:text-2xl">{project.name}</CardTitle>
                 </CardHeader>
-                <CardContent>
-                  <p className="text-gray-600 mb-3">{project.description}</p>
+                <CardContent className="p-0">
+                  <p className="text-gray-600 mb-3 text-sm md:text-base">{project.description}</p>
                   <p className="text-sm">
                     <span className="font-semibold">Status:</span> {project.status}
                   </p>
