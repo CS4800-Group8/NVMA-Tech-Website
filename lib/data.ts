@@ -60,6 +60,12 @@ export const teamMembers = [
 // Meeting logs
 export const logs = [
   {
+    id: "meeting32",
+    title: "Final Decision On User Profile Customization",
+    desc: "Discussed more functions in user profile customization, and moved some feature to settings",
+    date: "October 17, 2025 • 12:00 PM - 12:50 PM",
+  },
+  {
     id: "meeting31",
     title: "Architecture Design Draft",
     desc: "Created the initial draft for the system's architecture design.",
