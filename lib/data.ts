@@ -60,6 +60,36 @@ export const teamMembers = [
 // Meeting logs
 export const logs = [
   {
+    id: "meeting31",
+    title: "Architecture Design Draft",
+    desc: "Created the initial draft for the system's architecture design.",
+    date: "October 16, 2025 • 9:00 PM - 10:00 PM",
+  },
+  {
+    id: "meeting30",
+    title: "Front-End Adjustments",
+    desc: "Made adjustments to the front-end components in the user customization feature.",
+    date: "October 15, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting29",
+    title: "Feature Draft Completion",
+    desc: "Finished the draft for the user customization and food recipe cards features.",
+    date: "October 14, 2025 • 6:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting28",
+    title: "UI Design Planning",
+    desc: "Designed the UI for user profile customization and food recipe cards, and assigned tasks to team members.",
+    date: "October 12, 2025 • 7:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting27",
+    title: "Next Deliverable Discussion",
+    desc: "Discussed the next deliverable, including User Profile Customization and Food Recipe Cards on the landing page.",
+    date: "October 11, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
     id: "meeting26",
     title: "Final Data Model & Company's Website Update",
     desc: "Completed the final version of the data model and updated project progress logs on the company website.",
@@ -249,5 +279,15 @@ export const progress = [
     id: "progress5",
     num: 5,
     desc: "Create Sign Up, Sign In pages and let new users to register",
+  },
+  {
+    id: "progress6",
+    num: 6,
+    desc: "Create food recipe cards on the Explore Recipe tab by pulling data from a food API",
+  },
+  {
+    id: "progress7",
+    num: 7,
+    desc: "Allow users to customize their profiles",
   },
 ];
