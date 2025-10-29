@@ -60,6 +60,48 @@ export const teamMembers = [
 // Meeting logs
 export const logs = [
   {
+  id: "meeting38",
+  title: "Research and Idea Exploration",
+  desc: "Researched new ideas and explored design inspirations for upcoming features and improvements.",
+  date: "October 27, 2025 • 7:00 PM - 8:30 PM",
+  },
+  {
+    id: "meeting37",
+    title: "Next Deliverables Discussion",
+    desc: "Discussed the next deliverables and defined priorities for upcoming development stages.",
+    date: "October 26, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting36",
+    title: "Architecture Document Finalization",
+    desc: "Finalized the architecture design document, ensuring consistency across all sections.",
+    date: "October 24, 2025 • 8:00 PM - 9:30 PM",
+  },
+  {
+    id: "meeting35",
+    title: "Architecture Design Adjustments",
+    desc: "Adjusted the architecture design document based on team feedback and recent updates.",
+    date: "October 23, 2025 • 7:30 PM - 9:00 PM",
+  },
+  {
+    id: "meeting34",
+    title: "Progress Review Meeting",
+    desc: "Met to review current progress and discuss completed tasks and challenges.",
+    date: "October 21, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting33",
+    title: "Task Allocation for New Features",
+    desc: "Decided who will work on each part: create recipe popup, recipe interaction, and change password features.",
+    date: "October 19, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting32",
+    title: "Recipe Feature Brainstorm",
+    desc: "Brainstormed ideas for the 'Create Recipe' popup, recipe interaction, and change password functionality.",
+    date: "October 18, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
     id: "meeting31",
     title: "Architecture Design Draft",
     desc: "Created the initial draft for the system's architecture design.",
@@ -283,11 +325,21 @@ export const progress = [
   {
     id: "progress6",
     num: 6,
-    desc: "Create food recipe cards on the Explore Recipe tab by pulling data from a food API",
+    desc: "Create food recipe cards in the Explore Recipe tab by pulling data from a food API",
   },
   {
     id: "progress7",
     num: 7,
     desc: "Allow users to customize their profiles",
+  },
+  {
+  id: "progress8",
+  num: 8,
+  desc: "Users can click on recipe to see its content",
+  },
+  {
+    id: "progress9",
+    num: 9,
+    desc: "Allow users to change password and create recipe",
   },
 ];

@@ -58,7 +58,7 @@ export default function ProjectsPage() {
           {/* Projectt Progress */}
           <div className="py-8">
             <h1 className="text-3xl font-bold mb-8 text-center">Project Progress</h1>
-            <div className="border p-4 rounded-lg bg-white shadow-md">
+            <div className="flex flex-col gap-2 border p-4 rounded-lg bg-white shadow-lg">
               {progress.map((progress) => (
                 <div key={progress.id}>
                   <span className="tabular-nums">{progress.num}. </span>
