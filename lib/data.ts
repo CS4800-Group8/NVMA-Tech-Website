@@ -60,6 +60,132 @@ export const teamMembers = [
 // Meeting logs
 export const logs = [
   {
+    id: "meeting59",
+    title: "Mobile Display Fixes",
+    desc: "Reviewed issues on mobile screens and updated layouts to improve the mobile experience.",
+    date: "November 26, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting58",
+    title: "Messaging System",
+    desc: "Discussed how the messaging system should work and finished the basic chat and conversation features.",
+    date: "November 25, 2025 • 8:00 PM - 10:00 PM",
+  },
+  {
+    id: "meeting57",
+    title: "Search bar Update",
+    desc: "Talked about improving the search bar, included searchbar in home page and added filters for ingredients, and categories.",
+    date: "November 24, 2025 • 7:30 PM - 9:00 PM",
+  },
+  {
+    id: "meeting56",
+    title: "Favorites for User Recipes",
+    desc: "Added the ability to favorite recipes created by users.",
+    date: "November 22, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting55",
+    title: "Homepage Redesign",
+    desc: "Redesigned the homepage to show user-created recipes more clearly.",
+    date: "November 21, 2025 • 8:00 PM - 10:00 PM",
+  },
+  {
+    id: "meeting54",
+    title: "Recipe Rating Feature",
+    desc: "Added a simple star rating system for recipes.",
+    date: "November 20, 2025 • 7:30 PM - 9:00 PM",
+  },
+  {
+    id: "meeting53",
+    title: "Friend List Feature",
+    desc: "Added a friend list so users can see the friends they have added.",
+    date: "November 18, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting52",
+    title: "Explore Searchbar",
+    desc: "Added a simple search bar for explore recipe.",
+    date: "November 17, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting51",
+    title: "Recipe Comments",
+    desc: "Added a comment section inside the recipe popup.",
+    date: "November 16, 2025 • 8:00 PM - 9:30 PM",
+  },
+  {
+    id: "meeting50",
+    title: "Unfriend Feature",
+    desc: "Added an option to remove friends with a simple confirmation step.",
+    date: "November 14, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting49",
+    title: "Notification Fixes",
+    desc: "Reviewed notification issues and made updates to improve how friend request notifications work.",
+    date: "November 13, 2025 • 7:00 PM - 8:30 PM",
+  },
+  {
+    id: "meeting48",
+    title: "Other User Profile Page",
+    desc: "Created a page to view another user's profile.",
+    date: "November 11, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting47",
+    title: "Friend & Notification Models",
+    desc: "Discussed how to store friends and notifications in the database and updated the models.",
+    date: "November 10, 2025 • 7:30 PM - 9:00 PM",
+  },
+  {
+    id: "meeting46",
+    title: "Favorites UI Update",
+    desc: "Improved the favorite button and added a small confirmation popup.",
+    date: "November 8, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting45",
+    title: "Community Page",
+    desc: "Discussed the design for the Community page and built the page to show users and send friend requests.",
+    date: "November 7, 2025 • 8:00 PM - 10:00 PM",
+  },
+  {
+    id: "meeting44",
+    title: "Avatar Save",
+    desc: "Made user avatars save to the database so they no longer reset after login.",
+    date: "November 5, 2025 • 7:00 PM - 8:30 PM",
+  },
+  {
+    id: "meeting43",
+    title: "Favorite API Work",
+    desc: "Connected the favorite API and displayed the user's favorited recipes.",
+    date: "November 4, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
+    id: "meeting42",
+    title: "Instructions & Video URL",
+    desc: "Added fields for recipe instructions and an optional video link.",
+    date: "November 2, 2025 • 8:00 PM - 9:00 PM",
+  },
+  {
+    id: "meeting41",
+    title: "Ingredients & Categories",
+    desc: "Added ingredients and category options to the recipe creation form.",
+    date: "November 1, 2025 • 7:30 PM - 8:30 PM",
+  },
+  {
+    id: "meeting40",
+    title: "AWS Photo Upload",
+    desc: "Added support for uploading recipe photos using AWS.",
+    date: "October 30, 2025 • 8:00 PM - 9:30 PM",
+  },
+  {
+    id: "meeting39",
+    title: "Recipe Video Embed Fix",
+    desc: "Fixed the video in the recipe popup so it plays inside the popup instead of opening a new tab.",
+    date: "October 29, 2025 • 7:00 PM - 8:00 PM",
+  },
+  {
   id: "meeting38",
   title: "Research and Idea Exploration",
   desc: "Researched new ideas and explored design inspirations for upcoming features and improvements.",
@@ -341,5 +467,60 @@ export const progress = [
     id: "progress9",
     num: 9,
     desc: "Allow users to change password and create recipe",
+  },
+  {
+    id: "progress10",
+    num: 10,
+    desc: "Update recipe creation with photos, ingredients, categories, and full recipe details",
+  },
+  {
+    id: "progress11",
+    num: 11,
+    desc: "Add favorite system for saving and viewing favorite recipes",
+  },
+  {
+    id: "progress12",
+    num: 12,
+    desc: "Add Community page for discovering users and sending friend requests",
+  },
+  {
+    id: "progress13",
+    num: 13,
+    desc: "Add full friend system including notifications and friend list",
+  },
+  {
+    id: "progress14",
+    num: 14,
+    desc: "Add public user profile page to view other users' profiles",
+  },
+  {
+    id: "progress15",
+    num: 15,
+    desc: "Add comment system for recipes",
+  },
+  {
+    id: "progress16",
+    num: 16,
+    desc: "Add advanced search system with filtering for exploring recipes, and users' created recipes",
+  },
+  {
+    id: "progress17",
+    num: 17,
+    desc: "Add recipe rating system",
+  },
+  {
+    id: "progress18",
+    num: 18,
+    desc: "Redesign homepage to show user-created recipes",
+  },
+  {
+    id: "progress19",
+    num: 19,
+    desc: "Add messaging and conversation system",
+  },
+  {
+    id: "progress20",
+    num: 20,
+    desc: "Update the application to work on mobile",
   },
 ];
