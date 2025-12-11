@@ -128,7 +128,7 @@ export const logs = [
   {
     id: "meeting48",
     title: "Other User Profile Page",
-    desc: "Created a page to view another user's profile.",
+    desc: "Created others profile page to view other profile.",
     date: "November 11, 2025 • 8:00 PM - 9:00 PM",
   },
   {
@@ -158,7 +158,7 @@ export const logs = [
   {
     id: "meeting43",
     title: "Favorite API Work",
-    desc: "Connected the favorite API and displayed the user's favorited recipes.",
+    desc: "Connected the favorite API and displayed the users favorited recipes.",
     date: "November 4, 2025 • 7:00 PM - 8:00 PM",
   },
   {
@@ -186,10 +186,10 @@ export const logs = [
     date: "October 29, 2025 • 7:00 PM - 8:00 PM",
   },
   {
-  id: "meeting38",
-  title: "Research and Idea Exploration",
-  desc: "Researched new ideas and explored design inspirations for upcoming features and improvements.",
-  date: "October 27, 2025 • 7:00 PM - 8:30 PM",
+    id: "meeting38",
+    title: "Research and Idea Exploration",
+    desc: "Researched new ideas and explored design inspirations for upcoming features and improvements.",
+    date: "October 27, 2025 • 7:00 PM - 8:30 PM",
   },
   {
     id: "meeting37",
@@ -459,9 +459,9 @@ export const progress = [
     desc: "Allow users to customize their profiles",
   },
   {
-  id: "progress8",
-  num: 8,
-  desc: "Users can click on recipe to see its content",
+    id: "progress8",
+    num: 8,
+    desc: "Users can click on recipe to see its content",
   },
   {
     id: "progress9",
@@ -501,7 +501,7 @@ export const progress = [
   {
     id: "progress16",
     num: 16,
-    desc: "Add advanced search system with filtering for exploring recipes, and users' created recipes",
+    desc: "Add advanced search system with filtering for exploring recipes, and user-created recipes",
   },
   {
     id: "progress17",
